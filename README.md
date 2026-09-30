@@ -84,7 +84,7 @@ Save the images inside a `screenshots` folder and link them here.
 3. Install dependencies:
 
 ```bash
-npm install
+npm install --legacy-peer-deps
 ```
 
 4. Configure the environment variables required by the project.
